@@ -1,5 +1,5 @@
 category: KDE Devel
-requires: libgcc1 libkdecore5 libkdevplatform1 libQtCore4 libQtGui4 libstdc++6
+requires: libgcc1 libkdecore5 libkdevplatform2 libQtCore4 libQtGui4 libstdc++6
 sdesc: "KDE Integrated Development Environment (PHP plugin)"
 ldesc: "KDevelop is an Integrated Development Environment to be used for 
 a wide variety of programming tasks."
